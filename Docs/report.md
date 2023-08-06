@@ -17,3 +17,5 @@
 **Общие рекомендации**:
 * Исправить найденные баги
 * Добавить сообщения об ошибках на более информативные, указывающие в чем конкретно ошибка
+![6v9sd44j](https://github.com/vitalemel/Diplom/assets/120091820/ca1d5e4f-23b5-4081-a388-45633b1f8d0e)
+![nkd6ntzi](https://github.com/vitalemel/Diplom/assets/120091820/eb74ce53-02d4-4765-ae37-30ab2dd3b6e3)
